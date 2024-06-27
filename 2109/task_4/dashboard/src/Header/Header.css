@@ -1,0 +1,13 @@
+.App-header {
+	display: flex;
+	align-items: center;
+	border-bottom: medium solid rgb(221, 72, 72);
+	border-bottom-color: rgb(221, 72, 72);
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(221, 72, 72);
+}
+
+.App-logo {
+	width: 240px;
+	height: 240px;
+}

@@ -1,0 +1,7 @@
+.App-body {
+	padding: 2% 3% ;
+	height: 480px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-top: medium solid rgb(221, 72, 72);
+	border-top-color: rgb(221, 72, 72);
+}

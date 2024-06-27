@@ -1,0 +1,12 @@
+.Notifications {
+	border: 1px rgb(221, 72, 72) dashed;
+	padding: 5px;
+}
+
+[data-pritory="default"] {
+	color: rgb(1, 1, 170);
+}
+
+[data-priority="urgent"] {
+	color: rgb(255, 60, 0);
+}

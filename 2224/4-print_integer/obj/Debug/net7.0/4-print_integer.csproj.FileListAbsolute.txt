@@ -1,0 +1,15 @@
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\bin\Debug\net7.0\4-print_integer.exe
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\bin\Debug\net7.0\4-print_integer.deps.json
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\bin\Debug\net7.0\4-print_integer.runtimeconfig.json
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\bin\Debug\net7.0\4-print_integer.dll
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\bin\Debug\net7.0\4-print_integer.pdb
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\4-print_integer.csproj.AssemblyReference.cache
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\4-print_integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\4-print_integer.AssemblyInfoInputs.cache
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\4-print_integer.AssemblyInfo.cs
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\4-print_integer.csproj.CoreCompileInputs.cache
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\4-print_integer.dll
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\refint\4-print_integer.dll
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\4-print_integer.pdb
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\4-print_integer.genruntimeconfig.cache
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\4-print_integer\obj\Debug\net7.0\ref\4-print_integer.dll
