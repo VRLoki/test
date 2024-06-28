@@ -19,7 +19,7 @@ if __name__ == '__main__':
             print("Too much style for '.photo-{}': {}".format(photo_name, ", ".join(c_photo_el.keys())))
             exit(0)
         if c_photo_el.get('background', "").lower() != "image-url(\"photos/{}.jpg\")no-repeat;".format(photo_name):
-            print("image-url(\"photos/{}.jpg\")no-repeat;' != {}".format(photo_name, c_photo_el.get('background', "").lower()))
+            print("image-url(\"photos/{}.jpg\")no-repeat; != {}".format(photo_name, c_photo_el.get('background', "").lower()))
             exit(0)
 
     print("OK", end="")
