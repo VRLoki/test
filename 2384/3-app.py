@@ -25,12 +25,11 @@ def root():
     """app.py"""
     return render_template("3-index.html")
 
-
-@babel.localeselector
 def get_locale():
     """ to determine the best match with our supported languages """
     return request.accept_languages.best_match(app.config['LANGUAGES'])
 
+babel.init_app(app, locale_selector=get_locale)
 
 if __name__ == "__main__":
     app.run()
