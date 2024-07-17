@@ -1,0 +1,33 @@
+{
+  "name": "unittests_in_js",
+  "version": "1.0.0",
+  "description": "Projects used to learn unit testing in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-dav/holbertonschool-web_back_end.git"
+  },
+  "keywords": [
+    "unittests",
+    "javascript",
+    "mocha",
+    "chai",
+    "sinon",
+    "express",
+    "node"
+  ],
+  "author": "Vladimir Davidov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-dav/holbertonschool-web_back_end/issues"
+  },
+  "homepage": "https://github.com/v-dav/holbertonschool-web_back_end#readme",
+  "devDependencies": {
+      "chai": "^4.4.1",
+      "mocha": "^6.2.3",
+      "sinon": "^7.5.0"
+  }
+}
