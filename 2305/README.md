@@ -1,1 +1,0 @@
-Deep Convolutional Neuran Networks.
