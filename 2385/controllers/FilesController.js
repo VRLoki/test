@@ -3,8 +3,8 @@ import { ObjectId } from 'mongodb';
 import { v4 as uuidv4 } from 'uuid';
 import fs from 'fs';
 import mime from 'mime-types';
-import { redisClient } from '../utils/redis.js';
-import { dbClient } from '../utils/db.js';
+import dbClient from '../utils/db';
+import redisClient from '../utils/redis';
 
 const fileQueue = new Bull('fileQueue');
 

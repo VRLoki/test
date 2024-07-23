@@ -1,5 +1,5 @@
-import { redisClient } from '../utils/redis.js';
-import { dbClient } from '../utils/db.js';
+import redisClient from '../utils/redis';
+import dbClient from '../utils/db';
 
 class AppController {
   // Method which returns the status of the Redis database and client

@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from 'uuid';
 import sha1 from 'sha1';
-import { redisClient } from '../utils/redis.js';
-import { dbClient } from '../utils/db.js';
+import dbClient from '../utils/db';
+import redisClient from '../utils/redis';
 
 class AuthController {
   // Method to connect a user and generate an authentication token.
