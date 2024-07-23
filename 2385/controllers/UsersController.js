@@ -1,8 +1,8 @@
 import sha1 from 'sha1';
 import Bull from 'bull';
 import { ObjectId } from 'mongodb';
-import redisClient from '../utils/redis';
-import dbClient from '../utils/db';
+import { redisClient } from '../utils/redis.js';
+import { dbClient } from '../utils/db.js';
 
 const userQueue = new Bull('userQueue');
 
