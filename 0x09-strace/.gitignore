@@ -1,0 +1,7 @@
+strace
+strace_*
+output_*
+build/
+
+params
+prototypes
