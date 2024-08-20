@@ -1,0 +1,15 @@
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\3-writeline.csproj.AssemblyReference.cache
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\3-writeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\3-writeline.AssemblyInfoInputs.cache
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\3-writeline.AssemblyInfo.cs
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\3-writeline.csproj.CoreCompileInputs.cache
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\bin\Debug\net7.0\3-writeline.exe
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\bin\Debug\net7.0\3-writeline.deps.json
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\bin\Debug\net7.0\3-writeline.runtimeconfig.json
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\bin\Debug\net7.0\3-writeline.dll
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\bin\Debug\net7.0\3-writeline.pdb
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\3-writeline.dll
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\refint\3-writeline.dll
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\3-writeline.pdb
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\3-writeline.genruntimeconfig.cache
+C:\Users\Lenov\Desktop\ARVR Spe\csharp-hello_world\3-writeline\obj\Debug\net7.0\ref\3-writeline.dll
