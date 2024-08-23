@@ -1,0 +1,28 @@
+{
+  "Item.b07ab8e4-85cb-44d4-a016-2aae7ba49604": {
+    "name": "computer",
+    "description": "personal computer",
+    "price": 132.5,
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "id": "b07ab8e4-85cb-44d4-a016-2aae7ba49604",
+    "date_created": "2023-07-16T11:30:44.559012\u002B02:00",
+    "date_updated": "2023-07-16T11:55:11.211639\u002B02:00"
+  },
+  "User.6ffc3816-dceb-4090-a780-fe35d2b7bbd2": {
+    "name": "betty",
+    "id": "6ffc3816-dceb-4090-a780-fe35d2b7bbd2",
+    "date_created": "2023-07-16T13:08:30.975752\u002B02:00",
+    "date_updated": "2023-07-16T13:08:30.975752\u002B02:00"
+  },
+  "Inventory.871670e5-18c7-426f-8dc4-4bdc91e15afd": {
+    "user_id": "6ffc3816-dceb-4090-a780-fe35d2b7bbd2",
+    "item_id": "b07ab8e4-85cb-44d4-a016-2aae7ba49604",
+    "quantity": 10,
+    "id": "871670e5-18c7-426f-8dc4-4bdc91e15afd",
+    "date_created": "2023-07-16T13:09:20.696108\u002B02:00",
+    "date_updated": "2023-07-16T13:09:20.696108\u002B02:00"
+  }
+}
