@@ -1,0 +1,13 @@
+// Create database db_test_3 and add one document in the collection school
+use db_test_3
+db.school.deleteMany({})
+db.school.insert({ name: "HBTN 1" })
+db.school.insert({ name: "HBTN 2" })
+db.school.insert({ name: "HBTN 3" })
+db.school.insert({ name: "HBTN 4" })
+db.school.insert({ name: "HBTN 5" })
+db.school.insert({ name: "HBTN 6" })
+db.school.insert({ name: "HBTN 7" })
+db.school.insert({ name: "HBTN 8" })
+db.school.insert({ name: "HBTN 9" })
+db.school.insert({ name: "HBTN 10" })

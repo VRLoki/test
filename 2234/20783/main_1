@@ -1,0 +1,6 @@
+// Create database db_test_1 and insert 3 document
+use db_test_1
+db.school.deleteMany({})
+db.school.insert({name: "H"})
+db.school.insert({name: "O"})
+db.school.insert({name: "L"})

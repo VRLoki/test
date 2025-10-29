@@ -1,0 +1,3 @@
+// Create database db_test_2 and empty the collection school
+use db_test_2
+db.school.deleteMany({})

@@ -1,0 +1,4 @@
+// Create database db_test_1 and add one document in the collection school
+use db_test_1
+db.school.deleteMany({})
+db.school.insert({ name: "HBTN" })

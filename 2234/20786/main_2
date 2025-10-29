@@ -1,0 +1,8 @@
+// Create database db_test_2 and add 5 documents in the collection school
+use db_test_2
+db.school.deleteMany({})
+db.school.insert({ name: "HBTN 1" })
+db.school.insert({ name: "HBTN 2" })
+db.school.insert({ name: "HBTN 3" })
+db.school.insert({ name: "HBTN 4" })
+db.school.insert({ name: "HBTN 5" })

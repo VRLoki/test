@@ -1,0 +1,3 @@
+// Test
+db.school.deleteMany({})
+db.school.insert({ name: "Holberton" })
